@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/napi-argv-strided-uint32array",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Convert a Node-API value representing a strided array to an unsigned 32-bit integer array.",
   "license": "Apache-2.0",
   "author": {
@@ -41,7 +41,7 @@
   "dependencies": {
     "@stdlib/assert-napi-status-ok": "^0.2.2",
     "@stdlib/napi-argv": "^0.2.2",
-    "@stdlib/napi-argv-uint32array": "^0.2.2",
+    "@stdlib/napi-argv-uint32array": "^0.2.3",
     "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
